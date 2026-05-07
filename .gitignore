@@ -1,0 +1,9 @@
+# Generated reports
+*.csv
+*.xlsx
+*.xls
+
+# Local PowerShell files
+*.ps1xml
+*.clixml
+
